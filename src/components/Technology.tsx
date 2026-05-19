@@ -82,7 +82,7 @@ export function Technology() {
               },
               {
                 t: "Climate Engineered",
-                d: "Heated water and freeze-resistant bay design keeps cycles running at -30°C — every day Alberta throws at us.",
+                d: "Heated water and freeze-resistant bay design keeps cycles running at -30°C   every day Alberta throws at us.",
               },
             ].map((b, i) => (
               <motion.div

@@ -14,7 +14,7 @@ const services = [
   {
     icon: Truck,
     title: "Truck Wash",
-    desc: "Full exterior cleaning for semi-trucks, day cabs, and sleepers — built for Alberta highways.",
+    desc: "Full exterior cleaning for semi-trucks, day cabs, and sleepers   built for Alberta highways.",
     spec: "Cycle · 12 min",
   },
   {
@@ -38,13 +38,13 @@ const services = [
   {
     icon: HardHat,
     title: "Heavy Equipment",
-    desc: "Loaders, dozers, excavators — degreased and degunked for site-ready return.",
+    desc: "Loaders, dozers, excavators   degreased and degunked for site-ready return.",
     spec: "Pressure · 4000 PSI",
   },
   {
     icon: Wrench,
     title: "Commercial Vehicles",
-    desc: "Service vans, work trucks, utility rigs — kept clean and professional.",
+    desc: "Service vans, work trucks, utility rigs   kept clean and professional.",
     spec: "Custom · Recurring",
   },
   {
@@ -71,7 +71,7 @@ export function Services() {
         <SectionHeader
           eyebrow="01 · Services"
           title="Built for every vehicle on the road."
-          sub="From single-cab pickups to 53-foot reefers, we wash it cleaner — faster."
+          sub="From single-cab pickups to 53-foot reefers, we wash it cleaner   faster."
         />
 
         <div className="mt-16 grid grid-cols-1 gap-4 md:grid-cols-2 lg:grid-cols-4">

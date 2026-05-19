@@ -101,7 +101,7 @@ export function Contact() {
         <SectionHeader
           eyebrow="08 · Contact"
           title="Tell us what needs washing."
-          sub="Fleet quote, walk-in booking, or just a question — we'll respond fast."
+          sub="Fleet quote, walk-in booking, or just a question   we'll respond fast."
         />
 
         <motion.form

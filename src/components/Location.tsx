@@ -9,7 +9,7 @@ export function Location() {
         <SectionHeader
           eyebrow="07 · Location"
           title="3530 Kepler Street, Whitecourt."
-          sub="Easy truck access. Hwy 43 corridor. Open early — open late."
+          sub="Easy truck access. Hwy 43 corridor. Open early   open late."
         />
 
         <div className="mt-16 grid grid-cols-1 gap-6 lg:grid-cols-12">

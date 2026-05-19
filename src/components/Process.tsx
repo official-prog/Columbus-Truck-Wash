@@ -17,7 +17,7 @@ const steps = [
   {
     n: "03",
     t: "High-Pressure Wash",
-    d: "4500 PSI lance work — wheels, undercarriage, body, trailer.",
+    d: "4500 PSI lance work   wheels, undercarriage, body, trailer.",
   },
   {
     n: "04",
