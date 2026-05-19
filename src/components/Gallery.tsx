@@ -23,7 +23,7 @@ export function Gallery() {
         <SectionHeader
           eyebrow="05 · Gallery"
           title="From mud-covered to spotless."
-          sub="Real trucks, real results — captured in our Whitecourt bay."
+          sub="Real trucks, real results   captured in our Whitecourt bay."
         />
 
         <div className="mt-16 grid grid-cols-1 gap-4 lg:grid-cols-12 lg:auto-rows-[280px]">

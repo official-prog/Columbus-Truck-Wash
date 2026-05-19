@@ -5,7 +5,7 @@ import { SectionHeader } from "./Services";
 const features = [
   { icon: Calendar, t: "Scheduled Wash Programs", d: "Weekly, bi-weekly, monthly." },
   { icon: Receipt, t: "Commercial Accounts", d: "Monthly billing & PO support." },
-  { icon: Zap, t: "Priority Bays", d: "Skip the line — fleet first." },
+  { icon: Zap, t: "Priority Bays", d: "Skip the line   fleet first." },
   { icon: Activity, t: "Wash Reporting", d: "Per-unit logs and timestamps." },
 ];
 
@@ -136,7 +136,7 @@ export function Fleet() {
                 <CheckCircle2 size={14} /> Custom Programs Available
               </div>
               <p className="mt-3 text-sm text-foreground/80">
-                Tell us your fleet size and routes — we'll build a wash schedule
+                Tell us your fleet size and routes   we'll build a wash schedule
                 that keeps your trucks clean and compliant.
               </p>
               <a
