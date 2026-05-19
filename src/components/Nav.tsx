@@ -44,10 +44,10 @@ export function Nav() {
           </div>
           <div className="flex flex-col leading-none">
             <span className="font-display text-sm font-bold tracking-widest uppercase">
-              Pierson
+              Columbus
             </span>
             <span className="text-[10px] uppercase tracking-[0.3em] text-muted-foreground">
-              Carwash
+              Truck Wash
             </span>
           </div>
         </a>
